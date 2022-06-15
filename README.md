@@ -8,13 +8,13 @@ Here are some ideas to get you started:
 
 -->
 # 💫About Me :
-- 🔭 I’m currently working on fun projects @ [![ Punch Agency](https://punch.cool)
+- 🔭 I’m currently working on fun projects @ [![ Punch Agency](https://media-exp1.licdn.com/dms/image/C4D0BAQHrwxT262SQVw/company-logo_200_200/0/1519864530488?e=1663200000&v=beta&t=bWpotK6oRKnB44rw5Vg0cVOQ1dzFBNZ9fxlmoS1wzNg)](https://punch.cool)
 - 🌱 I’m currently learning Blockchain development and looking into Open Source Contribs...
 - 📫 How to reach me: shoot me a mail > omosekejiolawale@gmail.com
 - ⚡ Fun fact: Nothing
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ng.linkedin.com/in/omosekeji-olawale-49288917b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Narhzih) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/omosekeji-olawale-49288917b) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Narhzih) 
 
 <!-- # 💻Tech Stack -->
 <!-- ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
