@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 # 💫About Me :
-- 🔭 I’m currently working on fun projects @ [![ Punch Agency](https://media-exp1.licdn.com/dms/image/C4D0BAQHrwxT262SQVw/company-logo_200_200/0/1519864530488?e=1663200000&v=beta&t=bWpotK6oRKnB44rw5Vg0cVOQ1dzFBNZ9fxlmoS1wzNg)](https://punch.cool)
+- 🔭 I’m currently working on fun projects @ [!Punch Agency](https://punch.cool)
 - 🌱 I’m currently learning Blockchain development and looking into Open Source Contribs...
 - 📫 How to reach me: shoot me a mail > omosekejiolawale@gmail.com
 - ⚡ Fun fact: Nothing
