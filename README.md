@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 # 💫About Me :
-- 🔭 Software Engineer @ [GetWaitlist](https://getwaitlist.com)
+- 🔭 Software and Technical Support Engineer @ [GetWaitlist](https://getwaitlist.com)
 - 🌱 Mostly contributing to and maintaining [GetWaitlist](https://getwaitlist.com), [YGY](https://app.y.gy), and [UpdateMaker](https://updatemaker).
 - 📞 Providing Technical Support for [GetWaitlist](https://getwaitlist.com), [YGY](https://app.y.gy), and [UpdateMaker](https://updatemaker) 
 - 📫 How to reach me: shoot me a mail > omosekejiolawale@gmail.com
